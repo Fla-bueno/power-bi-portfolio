@@ -1,4 +1,3 @@
-# power-bi-portfolio
 # Portfólio de BI
 
 Projetos de Business Intelligence com **Power BI**, **DAX** e visuais personalizados em HTML/JavaScript, com foco em storytelling de dados e análise por IA.
