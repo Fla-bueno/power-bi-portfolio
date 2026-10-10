@@ -4,6 +4,8 @@ BI de gestão de pessoas construído em **Power BI**, com visuais HTML/JavaScrip
 
 > ⚠️ **Todos os dados são fictícios**, criados para este projeto. A empresa LogiFlow não existe.
 
+> 🧩 **Parte da série LogiFlow:** a mesma empresa fictícia analisada por diferentes setores. Veja também o [Supply Chain](../logiflow-supply-chain).
+
 ![Capa do relatório](imagens/01-capa.png)
 
 📄 **Relatório completo em PDF:** [BI_LogiFlow_People_Analytics.pdf](BI_LogiFlow_People_Analytics.pdf)
