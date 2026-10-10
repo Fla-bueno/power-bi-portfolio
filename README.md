@@ -1,8 +1,10 @@
-# Portfólio de BI
+# Portfólio de BI · Série LogiFlow
 
-Projetos de Business Intelligence com **Power BI**, **DAX** e visuais personalizados em HTML/JavaScript, com foco em storytelling de dados e análise por IA.
+Série de dashboards em **Power BI**, **DAX** e visuais personalizados em HTML/JavaScript, com análise por IA, construídos sobre uma mesma empresa fictícia, a **LogiFlow**, olhando para setores diferentes do negócio.
 
-**Flávio Bueno** · https://www.linkedin.com/in/flaviobuenodados
+O objetivo é mostrar versatilidade na construção de indicadores: cada projeto parte das perguntas de um setor, do modelo de dados à visualização.
+
+**Flávio Bueno** · [LinkedIn](https://www.linkedin.com/in/flaviobuenodados)
 
 > ⚠️ Todos os projetos usam **dados fictícios**, criados para fins de portfólio.
 
@@ -10,18 +12,30 @@ Projetos de Business Intelligence com **Power BI**, **DAX** e visuais personaliz
 
 ## Projetos
 
-### 1. [LogiFlow · People Analytics](logiflow-people-analytics)
+### 1. [People Analytics](logiflow-people-analytics) · Gestão de Pessoas
 
-BI completo de gestão de pessoas: visão geral, turnover, desempenho, remuneração, eNPS e clima, com uma página de **Insights IA** e um **Painel do Colaborador** com análise gerada por IA.
+Visão geral, turnover, desempenho, remuneração, eNPS e clima, com **Insights IA** e **Painel do Colaborador**.
 
 [![LogiFlow People Analytics](logiflow-people-analytics/imagens/01-capa.png)](logiflow-people-analytics)
-
-**Stack:** Power BI · DAX · HTML/CSS/JavaScript · Netlify Functions · IA generativa
 
 📄 [Ver relatório em PDF](logiflow-people-analytics/BI_LogiFlow_People_Analytics.pdf)
 
 ---
 
+### 2. [Supply Chain](logiflow-supply-chain) · Logística
+
+OTIF, custo por entrega, SLA, cancelamentos, desempenho por transportadora e região, com **Insights IA**.
+
+[![LogiFlow Supply Chain](logiflow-supply-chain/imagens/01-capa.png)](logiflow-supply-chain)
+
+📄 [Ver relatório em PDF](logiflow-supply-chain/BI_LogiFlow_Supply_Chain.pdf)
+
+---
+
+## Stack
+
+Power BI · DAX · Modelagem dimensional · HTML/CSS/JavaScript · Netlify Functions · IA generativa
+
 ## Em breve
 
-- BI de Supply Chain
+Novos setores da LogiFlow serão adicionados à série.
